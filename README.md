@@ -1,4 +1,4 @@
-# Infrastructure_with_Terraform_and_GCP
+# GCP_Infrastructure_with_Terraform
 ### Project Info
 
 This projcet is a good practice to build IAC in GCP using Terraform:
