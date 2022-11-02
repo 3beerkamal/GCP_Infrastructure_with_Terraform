@@ -1,3 +1,4 @@
+![GCP](https://user-images.githubusercontent.com/31750138/199372153-b9eedcf3-e7a4-483b-aff0-500468b1cd97.png)
 # Infrastructure_with_Terraform_and_GCP
 ### Project Info
 
